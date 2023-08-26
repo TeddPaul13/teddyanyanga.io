@@ -1,0 +1,47 @@
+*{
+  font-family: Georgia, serif;
+}
+.App{
+  text-align: center;
+  background-color: #d5ebdc;
+  
+}
+.info {
+  text-align: left;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.myportrait{
+  height: 250px;
+  text-align: center;
+}
+.iframeCard{
+  min-width: 8rem;
+  max-width: 18rem;
+  text-align: center;
+  height: 400px;
+}
+.cardImg{
+  height: 200px;
+}
+.linkToPage{
+  background: none;
+  border: none;
+  color: inherit;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.scrollUp{
+  color:#0dcaf0;
+  position: fixed;
+  font-size: 3rem;
+  width:100%;
+  bottom: 10px;
+  height: 30px;
+
+}
