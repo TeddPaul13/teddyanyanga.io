@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teddpaul13.github.io/static/css/main.2a4ec457.css",
+    "main.js": "/teddpaul13.github.io/static/js/main.39c3b1d7.js",
+    "static/js/787.fb265414.chunk.js": "/teddpaul13.github.io/static/js/787.fb265414.chunk.js",
+    "static/media/Tractor2.png": "/teddpaul13.github.io/static/media/Tractor2.7a54cb09e2ba0e22ea6b.png",
+    "static/media/potrait.jpg": "/teddpaul13.github.io/static/media/potrait.bd355fb20efb42d7f03e.jpg",
+    "static/media/bootstrap-icons.woff?": "/teddpaul13.github.io/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/HandymanLogo.png": "/teddpaul13.github.io/static/media/HandymanLogo.82cd8bee36bc2e73568b.png",
+    "static/media/bootstrap-icons.woff2?": "/teddpaul13.github.io/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/AFL.png": "/teddpaul13.github.io/static/media/AFL.2c98b8b97f0a726a9cfa.png",
+    "static/media/TeddyResume.pdf": "/teddpaul13.github.io/static/media/TeddyResume.5e52987ac5611c07eac0.pdf",
+    "index.html": "/teddpaul13.github.io/index.html",
+    "main.2a4ec457.css.map": "/teddpaul13.github.io/static/css/main.2a4ec457.css.map",
+    "main.39c3b1d7.js.map": "/teddpaul13.github.io/static/js/main.39c3b1d7.js.map",
+    "787.fb265414.chunk.js.map": "/teddpaul13.github.io/static/js/787.fb265414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4ec457.css",
+    "static/js/main.39c3b1d7.js"
+  ]
+}
